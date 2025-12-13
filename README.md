@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 BCA Graduate | MCA Student @ Gujarat Technological University
-- 🎓 Interested in building full-stack web apps and exploring backend & frontend both
+- ⚡ Interested in building full-stack web apps and exploring backend & frontend both
 - 💻 Comfortable working with **Python, JavaScript, HTML, CSS**, and ready to learn more  
 - 🔧 I enjoy building small utilities & web apps; regularly experiment with new ideas  
 - 🌱 Always learning, always improving  
