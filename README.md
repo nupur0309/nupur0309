@@ -10,10 +10,10 @@
 ## 👨‍💻 About Me  
 
 - 🎓 BCA Graduate | MCA Student @ Gujarat Technological University
-- ⚡ Interested in building full-stack web apps and exploring backend & frontend both
-- 💻 Comfortable working with **Python, JavaScript, HTML, CSS**, and ready to learn more  
-- 🔧 I enjoy building small utilities & web apps; regularly experiment with new ideas  
-- 🌱 Always learning, always improving  
+- 💡 Passionate about building scalable full-stack & enterprise applications
+- ⚙️ Hands-on experience with Oracle APEX development & data migration systems
+- 🧠 Strong focus on problem-solving, backend logic, and clean architecture
+- 🌱 Always learning, always improving
 
 ---
 
@@ -26,6 +26,11 @@
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+
 </p>
 
 <p align="center">
@@ -37,11 +42,11 @@
 
 ## 📚 What I’m Working On  
 
--  Building Python-based utilities & tools  
--  Learning full-stack web development  
+- Building application on Oracle APEX  
+- Learning Oracle APEX tools  
 - Exploring automation and scripting projects
 - Cloud Deployment using AWS, Docker, and CI/CD tools
-- Experimenting with new ideas and improving my coding skills  
+- Experimenting with new ideas and improving my skills  
 
 ---
 
